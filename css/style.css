@@ -1,0 +1,88 @@
+body {
+     color: #000;
+     font-size: 12px;
+     line-height: 1.4;
+     font-family: Helvetica, Arial, sans-serif;
+     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+     background-size: cover;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 24px;
+  color: white;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 24px;
+  color: white;
+}
+
+.button {
+  font-weight: 800;
+  font-size: 14px;
+  color: black;
+  text-decoration: none;
+  border-radius: 5px/5px;
+  background: #f9e42e;
+  padding: 5px;
+  width: 5px;
+  height: 5px;
+}
+
+.benefits {
+  background-color: #f0efef;
+}
+
+h3 {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+p, ul {
+  font-weight: 300;
+  font-size: 13px;
+}
+
+blockquote {
+  font-weight: 300;
+  font-style: italic;
+  font-size: 18px;
+  color: white;
+}
+
+span {
+  font-weight: 600;
+  font-size: 18px;
+  color: white;
+}
+
+aside {
+  background-color: #f9e42e;
+}
+
+.button2 {
+  font-weight: 800;
+  font-size: 14px;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px/5px;
+  background: #033048;
+  padding: 5px;
+  width: 5px;
+  height: 5px;
+}
+
+footer {
+  background-color: #121212;
+  color: white;
+  font-weight: 600;
+  font-size: 9px;
+}
+
+.footerlogo {
+  font-weight: 800;
+  font-size: 24px;
+  color: #f9e42e;
+}
